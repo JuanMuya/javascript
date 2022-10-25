@@ -58,7 +58,7 @@
 
 .cuadroPrincipal-div h1 {
     margin: 0;
-    color: aliceblue;
+    color: rgb(16, 17, 17);
     font-size: 60px;
     font-weight: bold;
     text-shadow: 0, 5px 0, 8px 2px black;
@@ -67,9 +67,9 @@
 
 .cuadroPrincipal-div p {
     opacity: 0, 7;
-    font-size: 35px;
-    color: aliceblue;
-    text-shadow: 0, 5px 0, 8px 2px black;
+    font-size: 45px;
+    color: rgb(6, 30, 53);
+    text-shadow: 0, 8px 0, 12px 2px black;
 
 }
 
